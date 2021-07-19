@@ -1,0 +1,4 @@
+## Wavelets method for solving systems of nonlinear singular
+fractional Volterra integro-differential equations ##
+
+This paper presents a computational method for solving a class of system of nonlinear singular fractional Volterra integro-differential equations. First, existences of a unique solution for under studying problem is proved. Then, shifted Chebyshev polynomials and their properties are employed to derive a general procedure for forming the operational matrix of fractional derivative for Chebyshev wavelets. The application of this operational matrix for solving mentioned problem is explained. In the next step, the error analysis of the proposed method is investigated. Finally, some examples are included for demonstrating the efficiency of the proposed method.
