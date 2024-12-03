@@ -1,41 +1,31 @@
 # Mathematica Source Codes for Various Numerical Analysis Papers
 
-This repository contains Mathematica source codes that implement the experimental results of various numerical analysis papers.
+This repository provides Mathematica source codes used to generate experimental results for several numerical analysis papers. Each directory corresponds to a specific paper and includes the relevant code and, where applicable, data files.
 
 ## Contents
 
-- **Pouzet–Runge–Kutta–Chebyshev Method for Volterra Integral Equations of the Second Kind**
+- **A Novel Numerical Method of Two-Dimensional Fredholm Integral Equations of the Second Kind**
 - **A New Degenerate Kernel Method for a Weakly Singular Integral Equation**
 - **Fourth-Order Compact Scheme for the One-Dimensional Sine-Gordon Equation**
+- **Haar Wavelet Method for Some Nonlinear Volterra Integral Equations of the First Kind**
 - **Improving Petrov–Galerkin Elements via Chebyshev Polynomials and Solving Fredholm Integral Equation of the Second Kind by Them**
 - **Legendre Wavelets Method for the Numerical Solution of Fractional Integro-Differential Equations with Weakly Singular Kernel**
-- **Haar Wavelet Method for Some Nonlinear Volterra Integral Equations of the First Kind**
 - **Legendre Wavelets Operational Method for the Numerical Solutions of Nonlinear Volterra Integro-Differential Equations System**
+- **Pouzet–Runge–Kutta–Chebyshev Method for Volterra Integral Equations of the Second Kind**
 - **Wavelets Method for Solving Systems of Nonlinear Singular Fractional Volterra Integro-Differential Equations**
 - **Runge–Kutta–Fehlberg Method**
 
 ## Usage
 
-1. **Clone the repository:**
+Each directory contains a Mathematica notebook (`.nb`) file. To run the code:
 
-   ```bash
-   git clone https://github.com/mahdipc/Mathematica-source-codes-for-various-Numerical-Analysis-papers.git
-   ```
+1. Open the `.nb` file in Mathematica.
+2. Evaluate the cells sequentially to reproduce the results presented in the corresponding paper.
 
-2. **Navigate to the desired paper's directory:**
+## References
 
-   ```bash
-   cd Mathematica-source-codes-for-various-Numerical-Analysis-papers/[Paper_Directory]
-   ```
-
-3. **Open the Mathematica notebook file (.nb) using Wolfram Mathematica.**
-
-4. **Execute the code to reproduce the experimental results.**
-
-## Contribution
-
-Contributions are welcome! If you have implementations of other numerical analysis papers or improvements to existing codes, please fork the repository and submit a pull request.
+For detailed explanations of the methods and results, please refer to the original papers associated with each directory.
 
 ## License
 
-This repository is licensed under the [MIT License](LICENSE). 
+This repository is licensed under the [MIT License](LICENSE).
